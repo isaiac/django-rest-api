@@ -1,0 +1,15 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "Super Admin",
+      "email": "isaiacwebdev+superadmin@gmail.com",
+      "username": "superadmin",
+      "password": "pbkdf2_sha256$600000$OM3YICaXoBwdIkYdkRwmFG$sgDHtKatpgk0mu1Bq6gGn46TF36AWWCrWVzmGoc5Nso=",
+      "is_staff": true,
+      "is_superuser": true,
+      "is_active": true
+    }
+  }
+]
